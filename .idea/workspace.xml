@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c376f432-06c1-4542-837c-f945d00b9268" name="Default Changelist" comment="" />
+    <list default="true" id="c376f432-06c1-4542-837c-f945d00b9268" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/practise/springbootstarter/hello/HelloController.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,6 +170,27 @@
               <item name="SpringBootProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootstarter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -183,7 +206,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558302185778" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558303977580" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -262,7 +285,7 @@
       <workItem from="1554549612817" duration="12359000" />
       <workItem from="1554582307909" duration="1199000" />
       <workItem from="1554592866584" duration="601000" />
-      <workItem from="1558299060061" duration="3117000" />
+      <workItem from="1558299060061" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit.">
       <created>1558300170325</created>
@@ -275,13 +298,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43088000" />
+    <option name="totallyTimeSpent" value="43798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="-8" width="1862" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17897092" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3098434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -301,7 +323,7 @@
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32929516" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5006812" side_tool="true" visible="true" weight="0.49779737" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006812" side_tool="true" visible="true" weight="0.49779737" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32929516" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32929516" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
